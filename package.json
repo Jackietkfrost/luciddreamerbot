@@ -1,0 +1,30 @@
+{
+  "name": "lucid-dream-bot",
+  "version": "1.0.0",
+  "description": "Game Discord bot for Lucid Dreams server",
+  "main": "index.js",
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jackietkfrost/luciddreamerbot.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "js",
+    "discord.js"
+  ],
+  "author": "Jacquelinne Marcano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jackietkfrost/luciddreamerbot/issues"
+  },
+  "homepage": "https://github.com/Jackietkfrost/luciddreamerbot#readme",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "discord.js": "^11.5.1",
+    "fs": "0.0.1-security"
+  }
+}
