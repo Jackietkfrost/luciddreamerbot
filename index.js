@@ -71,4 +71,4 @@ bot.on("message", async message => {
 
 });
 
-bot.login('NjEwNTY2NTU5ODYxMzA5NDUx.XVLM1g.twSrN2q3IFqTZdF2NuJG5-_CHg0');
+bot.login('token');
